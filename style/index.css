@@ -1,4 +1,19 @@
 body {
-    background: #000;
-    color: #FFF;
+    background: #AAA;
+}
+
+input {
+    background: #DDD;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+input[type="number"] {
+    appearance: textfield;
+}
+
+.error {
+    color: #F00;
+    font-size: 0.8em;
+    font-weight: lighter;
 }
