@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Number Generator</title>
+    <link rel="stylesheet" href="style/index.css">
 </head>
 <body>
     <h1>Random Number Generator (RNG)</h1>
