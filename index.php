@@ -10,6 +10,7 @@
     <p>
         Número aleatorio: 
         <?php
+            echo random_int(1, 100);
         ?>
     </p>
 </body>
